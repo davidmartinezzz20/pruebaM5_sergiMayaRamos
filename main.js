@@ -35,3 +35,5 @@ const chargingStation = {
     return this._robotCapacity;
   }
 }
+
+//Hola, soy David M. y estoy forkeando este archivo.
